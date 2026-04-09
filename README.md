@@ -1,7 +1,6 @@
 # module-2-capstone-AWS-SaaS-Analysis-Fatah-Wiksa-Adristo
 Capstone for Purwadhika's Data Science and Machine Learning Program's Second Module
 
-![image.png](attachment:d46640f4-99e2-40f5-bd86-9f7ed3a332c6.png)
 
 ## **AWS SaaS Sales and Performance Analysis: A Regional Analysis of Profitability and Strategic Market**
 
